@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Niclas Michel</h1>
-<h3 align="center">Frontend Developer from Germany 👨🏻‍💻 🇩🇪</h3>
-<br>
-
+<h3 align="center">Frontend Developer from Germany 🇩🇪</h3>
 
 - 🔭 I’m currently working on **my portfolio website**
 
 - ⚡ I'm looking forward to **sharpen my web development skillset**
 
 - 🤝 I’m looking for **new challenges and contacts in the IT sector**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
